@@ -1,0 +1,20 @@
+name: Update Medium Blog Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with latest Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Update README with latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: 'BLOG-POST-LIST'
+          feed_list: 'https://medium.com/feed/@pranav.reveendran'
+          max_post_count: 5 
