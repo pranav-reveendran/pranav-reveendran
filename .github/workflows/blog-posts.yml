@@ -13,8 +13,10 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
       - name: Update README with latest Medium posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: 'BLOG-POST-LIST'
           feed_list: 'https://medium.com/feed/@pranav.reveendran'
-          max_post_count: 5 
+          max_post_count: 5
+          commit_message: "Updated with latest Medium blog posts"
+          committer_username: "blog-post-bot" 

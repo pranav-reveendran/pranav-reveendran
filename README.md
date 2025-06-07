@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./animated-banner.svg" alt="Pranav Reveendran - Data Engineering & ML Professional" width="100%"/>
+  <img src="./ultimate-banner.svg" alt="Pranav Reveendran - Data Engineering & ML Professional" width="100%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Pranav 👋</h1>
