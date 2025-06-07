@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-banner.png" alt="Banner" width="100%"/>
+  <img src="./banner.svg" alt="Pranav Reveendran - Data Engineering & ML Professional" width="100%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Pranav 👋</h1>
