@@ -92,4 +92,4 @@ I specialize in designing end-to-end data solutions that drive business impact. 
 
 <p align="center">
   <b>#DataScience #DataEngineering #MLOps #MachineLearning #AI #Python #AWS #Spark #Kafka #Airflow #OpenToWork</b>
-</p> 
+</p>
