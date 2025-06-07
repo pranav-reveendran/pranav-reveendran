@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Pranav Reveendran - Data Engineering & ML Professional" width="100%"/>
+  <img src="./animated-banner.svg" alt="Pranav Reveendran - Data Engineering & ML Professional" width="100%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Pranav 👋</h1>
@@ -8,10 +8,18 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/pranav-reveendran"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-  <a href="mailto:pranav.reveendran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pranav-reveendran" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pranav-reveendran?label=Follow&style=social" alt="Followers" />
+  <a href="https://linkedin.com/in/pranav-reveendran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pranav.reveendran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@pranav.reveendran"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pranav-reveendran&style=for-the-badge&color=brightgreen" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/pranav-reveendran?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/pranav-reveendran?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="Stars" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-red" />
+  <img src="https://img.shields.io/badge/Available%20for-2025%20Full%20Time-brightgreen" />
 </p>
 
 ---
@@ -35,10 +43,64 @@ I specialize in designing end-to-end data solutions that drive business impact. 
 
 ## 🛠️ Technical Stack
 
-| Data Engineering | ML/AI | Cloud | DevOps |
-|------------------|-------|-------|--------|
-| Python, SQL, Airflow, dbt, Kafka | Pandas, Scikit-learn, TensorFlow, PyTorch | AWS, GCP, Azure, Databricks | Docker, K8s, CI/CD, GitHub Actions |
-| Snowflake, MongoDB, Redis, DynamoDB | Jupyter, Prophet/ARIMA | S3, Redshift, Glue | Model Monitoring, A/B Testing |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+</p>
+
+### 📊 Detailed Technical Expertise
+
+<details>
+<summary><b>🔧 Data Engineering</b></summary>
+
+- **Languages**: Python, SQL, Scala, Java
+- **Frameworks**: Apache Airflow, dbt, Apache Spark, Apache Kafka
+- **Databases**: Snowflake, PostgreSQL, MongoDB, Redis, DynamoDB
+- **Cloud Platforms**: AWS (S3, Redshift, Glue, EMR), GCP (BigQuery, Dataflow), Azure
+- **ETL/ELT**: Custom pipelines, real-time streaming, batch processing
+
+</details>
+
+<details>
+<summary><b>🤖 Machine Learning & AI</b></summary>
+
+- **ML Libraries**: TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **MLOps**: Kubeflow, MLflow, Model monitoring, A/B testing
+- **Time Series**: Prophet, ARIMA, Seasonal decomposition
+- **NLP**: BERT, GPT integration, Text preprocessing
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+
+- **Containerization**: Docker, Kubernetes, Container orchestration
+- **CI/CD**: GitHub Actions, Jenkins, GitLab CI
+- **Infrastructure**: Terraform, CloudFormation, Infrastructure as Code
+- **Monitoring**: Prometheus, Grafana, CloudWatch, DataDog
+- **Version Control**: Git, GitHub, GitLab
+
+</details>
 
 ---
 
@@ -61,11 +123,31 @@ I specialize in designing end-to-end data solutions that drive business impact. 
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranav-reveendran&theme=onedark&column=4&margin-w=15&margin-h=15" />
+</p>
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-reveendran&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranav-reveendran&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-reveendran&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-reveendran&theme=github-dark-blue" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-reveendran&theme=github-compact" />
+</p>
+
+## 🐍 Contribution Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranav-reveendran/pranav-reveendran/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
